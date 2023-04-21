@@ -1,5 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    printf("Bem vindo ao jogo de adivinhacao");
+
+    // imprime cabecalho do jogo
+    printf("***********************************\n");
+    printf("* Bem vindo ao jogo de adivinhacao *\n");
+    printf("************************************");
 }
