@@ -1,0 +1,16 @@
+    // Necessário para ativar as buscas de valores via teclado.
+    #include <stdio.h>
+
+    // Ponto de partida, start do programa.
+    int main() {
+
+    // imprime textos que você definir entre aspas
+    printf("Imprime textos");
+
+    // \n para quebrar uma linha
+
+    // Define valores inteiros que você estipular
+    int numeroSecreto = 42;
+
+    / Busca valores atráves do teclado, valores que você digitar e o %d é um valor para buscar dados int via teclado
+    scanf("%d", &chuteDoValor);
